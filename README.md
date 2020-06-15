@@ -1,4 +1,4 @@
-![](https://github.com/Barbaris2/-reacthooks-githubSearch/blob/master/src/images/githubSearch.png)
+![](https://github.com/Barbaris2/-reacthooks-githubSearch/blob/master/images/githubSearch.png)
 
 # [reacthooks]githubSearch
 
