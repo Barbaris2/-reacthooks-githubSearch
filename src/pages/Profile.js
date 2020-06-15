@@ -10,6 +10,7 @@ export const Profile = ({ match }) => {
   useEffect(() => {
     getUser(urlName);
     getRepos(urlName);
+    // eslint-disable-next-line
   }, []);
 
   if (loading) {
