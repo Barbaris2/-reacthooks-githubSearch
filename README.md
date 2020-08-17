@@ -8,7 +8,6 @@
 
 - клонируйте репозиторий: `git clone https://github.com/Barbaris2/-reacthooks-githubSearch.git`
 - установите зависимости: `yarn install` или `npm install`
-- перейдите в нужную ветку: `git checkout <branch name>`
 - запустите проект: `yarn start` or `npm start`
 - откройте [http://localhost:3000](http://localhost:3000) в Вашем браузере.
 
